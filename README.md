@@ -57,3 +57,7 @@ npm run dev        # watch mode, output to project root
 npm run dev:vault  # watch mode, output directly to vault plugins folder
 npm run build      # production build
 ```
+
+## Author
+
+**Adetola** — [adetola.dev](https://adetola.dev)

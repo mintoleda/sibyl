@@ -11,7 +11,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Adetola",
+  "homepage": "https://adetola.dev",
   "license": "ISC",
   "type": "commonjs",
   "devDependencies": {
