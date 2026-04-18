@@ -1,4 +1,4 @@
-# Sibyl
+# sibyl (wip)
 
 Local semantic search and RAG (Retrieval-Augmented Generation) for your Obsidian vault. Ask questions in natural language and get AI-generated answers grounded in your own notes.
 
