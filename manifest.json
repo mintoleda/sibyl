@@ -1,0 +1,10 @@
+{
+  "id": "sibyl",
+  "name": "Sibyl",
+  "version": "0.1.0",
+  "minAppVersion": "0.15.4",
+  "description": "Local semantic search and RAG for your vault.",
+  "author": "opencode",
+  "authorUrl": "https://github.com/opencode",
+  "isDesktopOnly": true
+}

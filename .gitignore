@@ -1,0 +1,9 @@
+# Dependency directories
+node_modules/
+
+# Build outputs
+main.js
+.codex
+
+# OS files
+.DS_Store
